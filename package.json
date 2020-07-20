@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A simple RPG to demonstrate OOP and TDD savvy. (Acronyms!)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicajernigan/jest-another-RPG.git"
+  },
+  "keywords": [
+    "rpg",
+    "oop",
+    "tdd"
+  ],
+  "author": "jessicajernigan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jessicajernigan/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/jessicajernigan/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
